@@ -7,7 +7,7 @@ This application allows the user to get information about the weather in their c
 
 ## Demo project
 
-Demo: https://dmitriystepanov601.github.io/Movie/
+Demo: https://dmitriystepanov601.github.io/Weather/
 
 ## Technologies
 
