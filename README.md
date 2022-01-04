@@ -1,6 +1,6 @@
 # Weather
 
-This application allows the user to get information about the weather in their city / country by entering in the field of their city or by pressing a button to get the user's location.
+This application allows the user to get information about the weather in their city/country by entering in the field of their city or by pressing a button to get the user's location.
 
 ![2022-01-02_17-34-09](https://user-images.githubusercontent.com/61186198/147920104-c425b47f-cdac-4b34-9f8d-ef1b1403a4cd.png)
 
@@ -13,7 +13,7 @@ Demo: https://dmitriystepanov601.github.io/Weather_App/
 
 - HTML
 - CSS
-- JavaScript 
+- Vanilla JS 
 
 ## Project Description
 
@@ -29,6 +29,3 @@ If the user enters the wrong name of the city in the field or simply enters a ra
 ## API
 
 A third-party service was used as a data source: https://openweathermap.org/api
-
-![2022-01-02_17-28-11](https://user-images.githubusercontent.com/61186198/147878943-097b31f2-a462-40ea-9972-914fd2e1edca.png)
-
